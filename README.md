@@ -15,6 +15,7 @@ with all the features and workflow of Godot
 Why did i do this well i wanted to learn more c++ and i was bored
 no prebuild binaries yet
 can just follow the godot wiki to build from source here https://docs.godotengine.org/en/latest/engine_details/development/compiling
+and record animations with the movie mode just follow a godot movie mode tutorial online
 
 **[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
 game engine to create 2D and 3D games from a unified interface.** It provides a
