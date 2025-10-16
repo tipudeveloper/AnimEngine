@@ -6,7 +6,15 @@
   </a>
 </p>
 
-## 2D and 3D cross-platform game engine
+## AnimEngine2D and 3D cross-platform gdscript based animation engine
+
+## What differents from Godot
+
+AnimEngine uses a modified version of gdscript to make moving objects and animations easier
+with all the features and workflow of Godot
+Why did i do this well i wanted to learn more c++ and i was bored
+no prebuild binaries yet
+can just follow the godot wiki to build from source here https://docs.godotengine.org/en/latest/engine_details/development/compiling
 
 **[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
 game engine to create 2D and 3D games from a unified interface.** It provides a
